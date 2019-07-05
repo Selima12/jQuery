@@ -1,0 +1,105 @@
+body{
+    background-color: rgba(231, 133, 133, 0.863);
+   
+}
+*{padding: 0px; margin: 0px;}
+
+li{
+    display: inline;
+    margin-right: 150px
+}
+
+ul{
+    padding-left: 400px
+}
+    
+.image2{
+    background-image: url("../res/pic2.jpg");
+    height: 500px;
+    color:palevioletred;
+    padding-top: 300px;
+    font-size: 30px;
+    
+}
+.top{
+    font-size: 20px;
+    color:white;
+    margin-right: 50px ;
+    display: inline-block;
+}
+.pics1{
+    background-image: url("../res/obj1.png");
+    width: 200px;
+    height: 100px;
+    background-repeat: no-repeat;
+    display:inline-block;
+    padding-top: 60px;
+    
+}
+.pic2{
+    background-image: url("../res/obj2.png");
+    width:200px;
+    height:100px ;
+    background-repeat: no-repeat;
+    display:inline-block;
+    padding-top: 60px;
+}
+.pic3{
+    background-image: url("../res/obj3.png");
+    width: 200px;
+    height: 100px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    padding-top: 60px;
+}
+.pic4{
+    background-image: url("../res/obj4.png");
+    width: 200px;
+    height: 100px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    padding-top: 60px;
+
+}
+.pic5{
+    background-image: url("../res/obj5.png");
+    width: 200px;
+    height: 100px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    padding-top: 60px;
+
+}
+.pic6{
+    background-image: url("../res/obj6.png");
+    width: 200px;
+    height: 100px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    padding-top: 60px;
+}
+.pic7{
+    background-image: url("../res/obj7.png");
+    width: 200px;
+    height: 100px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    padding-top: 60px;
+}
+.pic8{
+    background-image: url("../res/obj8.png");
+    width: 200px;
+    height: 100px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    padding-top: 60px;
+}
+.pic9{
+    background-image: url("../res/obj9.png");
+    width: 200px;
+    height: 100px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    padding-top: 60px;
+}
+
